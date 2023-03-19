@@ -1,4 +1,4 @@
-语言: <a href="/GitTianxun163/Qglcraft/README.md">English</a>|简体中文
+语言: <a href="/README.md">English</a>|简体中文
 
 # Qglcraft
 自制一款小游戏，灵感来自 <a href="https://www.minecraft.net/">Minecraft</a> 这款游戏。

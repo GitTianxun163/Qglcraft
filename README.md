@@ -1,4 +1,4 @@
-Language: English|<a href="/GitTianxun163/Qglcraft/README_ZH_CN.md">简体中文</a>
+Language: English|<a href="/README_ZH_CN.md">简体中文</a>
 
 # Qglcraft
 Selfmade a game.Inspiration from <a href="https://www.minecraft.net/">Minecraft</a> Game.
