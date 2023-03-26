@@ -21,3 +21,6 @@ moc_*.cpp
 #Execute files
 *.exe
 *.out
+
+# Test files
+test_*

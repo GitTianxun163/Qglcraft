@@ -2,6 +2,7 @@
 
 echo Readying...
 set QT_HOME = D:/Qt/5.14.2/5.14.2/mingw73_64
+set PATH=D:\Qt\5.14.2\5.14.2\mingw73_64\bin;D:/Qt/5.14.2/Tools/mingw730_64\bin;%PATH%
 
 echo Mocing...
 echo /-qglcraft.h
